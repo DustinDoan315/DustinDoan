@@ -19,7 +19,7 @@ Open and friendly.
 <br />
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](http://www.linkedin.com/in/melanieseok-huashi](https://www.linkedin.com/in/%C4%91o%C3%A0n-kh%C3%A1nh-%C4%91%C3%B4ng-a3799a234/)
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]([http://www.linkedin.com/in/melanieseok-huashi](https://www.linkedin.com/in/%C4%91o%C3%A0n-kh%C3%A1nh-%C4%91%C3%B4ng-a3799a234/](https://www.linkedin.com/in/%C4%91o%C3%A0n-kh%C3%A1nh-%C4%91%C3%B4ng-a3799a234/))
 <br />
 
 
