@@ -1,4 +1,4 @@
-### Dustin Doan - Mobile Developer with React Native
+### Dustin Doan - Mobile Developer
 Open and friendly.
 
 ![Hua's github stats](https://github-readme-stats.vercel.app/api?username=HarryDoan&show_icons=true&theme=prussian)
