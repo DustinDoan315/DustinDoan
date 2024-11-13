@@ -1,4 +1,4 @@
-### Dustin Doan - Mobile Developer
+### Dustin Doan - Software Developer
 [![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DustinDoan315)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Open and friendly.
